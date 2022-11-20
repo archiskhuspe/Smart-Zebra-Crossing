@@ -10,7 +10,8 @@ The sensor detects the ultrasonic sound waves of a vehicle, and converts the ref
 
 💫 Files
 
-1. Tinkercad Project Link: https://www.tinkercad.com/things/fF0M4apSDoQ
-2. Arduino Code: To be implemented in Tinkercad
-3. Circuit Image: Labelled circuit diagram for reference
-4. Research Paper: Detailed information of the project
+1. Arduino Code: To be implemented in Tinkercad
+2. Circuit Image: Labelled circuit diagram for reference
+3. Research Paper: Detailed information of the project
+
+Tinkercad Project Link: https://www.tinkercad.com/things/fF0M4apSDoQ
