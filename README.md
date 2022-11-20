@@ -14,4 +14,4 @@ The sensor detects the ultrasonic sound waves of a vehicle, and converts the ref
 2. Circuit Image: Labelled circuit diagram for reference
 3. Research Paper: Detailed information of the project
 
-Tinkercad Project Link: https://www.tinkercad.com/things/fF0M4apSDoQ
+💫 Tinkercad Project Link: https://www.tinkercad.com/things/fF0M4apSDoQ
